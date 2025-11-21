@@ -17,8 +17,8 @@ const contentStyle: React.CSSProperties = {
 export default function Carouselpromo() {
     return (
         <div style={{ ...containerStyle, padding: "0 40px", margin: "0 auto" }}>
-            <div style={{ padding: 10, fontWeight: "bold", fontSize: 24 }}>
-                Promo
+            <div style={{ padding: 10, fontWeight: "bold", fontSize: 30 }}>
+                HOT Promo
             </div>
             <Carousel autoplay autoplaySpeed={5000}>
                 <div>
